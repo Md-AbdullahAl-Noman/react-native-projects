@@ -11,7 +11,7 @@ export default function InternelStyle() {
 const styles=StyleSheet.create({
     nameContainer:{
         backgroundColor:'yellow',
-        color:'green',
+        color:'magenta',
         padding:10,
         margin:5,
 
