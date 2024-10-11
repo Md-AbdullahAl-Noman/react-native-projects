@@ -4,6 +4,7 @@ import DynamicComponent from '../components/DynamicComponent'
 import InternelStyle from '../components/InternelStyle'
 import ExternelStyle from '../components/ExternelStyle'
 import ProductList from '../components/ProductList'
+import StateInAction from '../components/StateInAction'
 
 export default function index() {
   return (
@@ -14,7 +15,8 @@ export default function index() {
       <DynamicComponent/>
       <InternelStyle/>
       <ExternelStyle/> */}
-      <ProductList/>
+      {/* <ProductList/> */}
+      <StateInAction/>
     </View>
   )
 }
